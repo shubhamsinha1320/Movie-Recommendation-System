@@ -4,6 +4,8 @@ It is a movie recommendation system built on Jupyter notebook and Python
 
 Pre-requisite libraries :- pandas, numpy, sklearn, rake_nltk, ast
 
+Dataset link :- https://drive.google.com/file/d/1bzMdhDaSnk_A-yyN9cwnKdam-4GM3tK4/view?usp=sharing
+
 Functions used :-
 literal_eval - It is used to evaluate some columns of dataset which contained python objects such as lists and dictionaries.
 
