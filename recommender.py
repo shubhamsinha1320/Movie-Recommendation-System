@@ -1,3 +1,6 @@
+## Download link for the dataset (.csv file):
+## https://drive.google.com/file/d/1bzMdhDaSnk_A-yyN9cwnKdam-4GM3tK4/view?usp=sharing
+
 import pandas as pd
 from rake_nltk import Rake
 import numpy as np
